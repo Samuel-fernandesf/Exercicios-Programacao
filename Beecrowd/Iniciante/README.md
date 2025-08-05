@@ -58,6 +58,65 @@
 | 1071 | Soma de Impares Consecutivos I    | Repetição    | 2     | [1071.py](1071.py)                       |
 | 1072 | Intervalo 2                       | Repetição    | 1     | [1072.py](1072.py)                       |
 | 1073 | Quadrado de Pares                 | Repetição    | 1     | [1073.py](1073.py)                       |
+| 1074 | Par ou Ímpar                      | Repetição | 2     | [1074.py](1074.py) |
+| 1075 | Resto 2                           | Repetição | 2     | [1075.py](1075.py) |
+| 1078 | Tabuada                           | Repetição | 1     | [1078.py](1078.py) |
+| 1079 | Médias Ponderadas                 | Repetição | 1     | [1079.py](1079.py) |
+| 1080 | Maior e Posição                   | Repetição | 2     | [1080.py](1080.py) |
+| 1094 | Experiências                      | Repetição | 3     | [1094.py](1094.py) |
+| 1095 | Sequencia IJ 1                    | Repetição | 1     | [1095.py](1095.py) |
+| 1096 | Sequencia IJ 2                    | Repetição | 1     | [1096.py](1096.py) |
+| 1097 | Sequencia IJ 3                    | Repetição | 1     | [1097.py](1097.py) |
+| 1098 | Sequencia IJ 4                    | Repetição | 2     | [1098.py](1098.py) |
+| 1099 | Soma de Ímpares Consecutivos II   | Repetição | 1     | [1099.py](1099.py) |
+| 1101 | Sequência de Números e Soma       | Repetição | 4     | [1101.py](1101.py) |
+| 1113 | Crescente e Decrescente           | Repetição | 1     | [1113.py](1113.py) |
+| 1114 | Senha Fixa                        | Repetição | 1     | [1114.py](1114.py) |
+| 1115 | Quadrante                         | Repetição | 1     | [1115.py](1115.py) |
+| 1116 | Dividindo X por Y                 | Repetição | 1     | [1116.py](1116.py) |
+| 1117 | Validação de Nota                 | Repetição | 1     | [1117.py](1117.py) |
+| 1118 | Várias Notas Com Validação        | Repetição | 3     | [1118.py](1118.py) |
+| 1131 | Grenais                           | Repetição | 1     | [1131.py](1131.py) |
+| 1132 | Múltiplos de 13                   | Repetição | 1     | [1132.py](1132.py) |
+| 1133 | Resto da Divisão                  | Repetição | 3     | [1133.py](1133.py) |
+| 1134 | Tipo de Combustível               | Repetição | 1     | [1134.py](1134.py) |
+| 1142 | PUM                               | Repetição | 1     | [1142.py](1142.py) |
+| 1143 | Quadrado e ao Cubo                | Repetição | 1     | [1143.py](1143.py) |
+| 1144 | Sequência Lógica                  | Repetição | 1     | [1144.py](1144.py) |
+| 1145 | Sequência Lógica 2                | Repetição | 2     | [1145.py](1145.py) |
+| 1146 | Sequências Crescentes           | Repetição | 3     | [1146.py](1146.py) |
+| 1149 | Somando Inteiros Consecutivos   | Repetição | 1     | [1149.py](1149.py) |
+| 1150 | Ultrapassando Z                 | Repetição | 1     | [1150.py](1150.py) |
+| 1151 | Fibonacci Fácil                 | Repetição | 2     | [1151.py](1151.py) |
+| 1153 | Fatorial Simples                | Repetição | 1     | [1153.py](1153.py) |
+| 1154 | Idades                         | Repetição | 1     | [1154.py](1154.py) |
+| 1155 | Sequência S                    | Repetição | 2     | [1155.py](1155.py) |
+| 1156 | Sequência S II                 | Repetição | 2     | [1156.py](1156.py) |
+| 1157 | Divisores I                   | Repetição | 1     | [1157.py](1157.py) |
+| 1158 | Soma de Ímpares Consecutivos III | Repetição | 1   | [1158.py](1158.py) |
+| 1159 | Soma de Pares Consecutivos     | Repetição | 2     | [1159.py](1159.py) |
+| 1160 | Crescimento Populacional       | Repetição | 5     | [1160.py](1160.py) |
+| 1164 | Número Perfeito                | Repetição | 2     | [1164.py](1164.py) |
+| 1165 | Número Primo                  | Repetição | 2     | [1165.py](1165.py) |
+| 1172 | Substituição em Vetor I         | Vetores   | 1     | [1172.py](1172.py) |
+| 1173 | Preenchimento de Vetor I        | Vetores   | 1     | [1173.py](1173.py) |
+| 1174 | Seleçao em Vetor I              | Vetores   | 3     | [1174.py](1174.py) |
+| 1175 | Troca em Vetor I               | Vetores   | 2     | [1175.py](1175.py) |
+| 1176 | Fibonacci em Vetor             | Vetores   | 3     | [1176.py](1176.py) |
+| 1177 | Preenchimento de Vetor II       | Vetores   | 1     | [1177.py](1177.py) |
+| 1178 | Preenchimento de Vetor III      | Vetores   | 2     | [1178.py](1178.py) |
+| 1179 | Preenchimento de Vetor IV       | Vetores   | 2     | [1179.py](1179.py) |
+| 1180 | Menor e Posição               | Vetores   | 3     | [1180.py](1180.py) |
+| 1181 | Linha na Matriz               | Matrizes  | 3     | [1181.py](1181.py) |
+| 1182 | Coluna na Matriz              | Matrizes | 2     | [1182.py](1182.py) |
+| 1183 | Acima da Diagonal Principal   | Matrizes | 4     | [1183.py](1183.py) |
+| 1184 | Abaixo da Diagonal Principal  | Matrizes | 2     | [1184.py](1184.py) |
+| 1185 | Acima da Diagonal Secundária  | Matrizes | 2     | [1185.py](1185.py) |
+| 1186 | Abaixo da Diagonal Secundária | Matrizes | 3     | [1186.py](1186.py) |
+| 1187 | Área Superior                 | Matrizes | 3     | [1187.py](1187.py) |
+| 1188 | Área Inferior                 | Matrizes | 1     | [1188.py](1188.py) |
+| 1189 | Área Esquerda                 | Matrizes | 2     | [1189.py](1189.py) |
+| 1190 | Área Direita                  | Matrizes | 1     | [1190.py](1190.py) |
 
 ---
 ## Voltar ao repositório principal
