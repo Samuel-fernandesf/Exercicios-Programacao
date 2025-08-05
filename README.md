@@ -1,7 +1,7 @@
 # Exercícios de Programação
 
-![Beecrowd](https://img.shields.io/badge/Beecrowd-Online%20Judge-blue)
-![Neps Academy](https://img.shields.io/badge/Neps%20Academy-Platform-brightgreen)
+![beecrowd logo](https://www.beecrowd.com.br/judge/img/logo-beecrowd.svg)
+![neps logo](https://neps.academy/_nuxt/img/logo_neps.3348d16.svg)
 
 Este repositório reúne soluções de exercícios de programação das plataformas **Beecrowd** e **Neps Academy**, visando o aprimoramento da lógica de programação, raciocínio matemático e domínio de algoritmos. Os códigos são escritos em linguagem Python, organizados por tema, facilitando o estudo por áreas específicas.
 
