@@ -1,17 +1,23 @@
 # Exercícios de Programação
 
-![beecrowd logo](https://www.beecrowd.com.br/judge/img/logo-beecrowd.svg)
-![neps logo](https://neps.academy/_nuxt/img/logo_neps.3348d16.svg)
+> Este repositório reúne soluções de exercícios de programação das plataformas **Beecrowd** e **Neps Academy**, visando o aprimoramento da lógica de programação, raciocínio matemático e domínio de algoritmos.
+> Os códigos são escritos em linguagem **Python**, organizados por tema, facilitando o estudo por áreas específicas.
 
-Este repositório reúne soluções de exercícios de programação das plataformas **Beecrowd** e **Neps Academy**, visando o aprimoramento da lógica de programação, raciocínio matemático e domínio de algoritmos. Os códigos são escritos em linguagem Python, organizados por tema, facilitando o estudo por áreas específicas.
+---
+## 📂 Estrutura do Repositório
 
-## Estrutura do Repositório
+| Pasta                                  | Descrição                                                                                              |
+|---------------------------------------|--------------------------------------------------------------------------------------------------------|
+| [**Beecrowd/Iniciante**](./Beecrowd/Iniciante)     | Exercícios básicos de entrada/saída, lógica simples, condições e laços.                                |
+| [**Beecrowd/Matemática**](./Beecrowd/Matemática)   | Problemas com cálculos matemáticos: álgebra, geometria e teoria dos números.                           |
+| [**Beecrowd/Ad-Hoc**](./Beecrowd/Ad-Hoc)           | Problemas variados, com soluções pontuais e criativas, sem técnicas avançadas.                         |
+| [**Beecrowd/Strings**](./Beecrowd/Strings)         | Manipulação de strings, formatação e análise de textos.                                                |
+| [**Neps Academy**](./Neps%20Academy)              | Exercícios diversos da plataforma Neps, abordando algoritmos e estruturas de dados.                    |
+| [**Exercícios Diversos**](./)                     | Arquivos explicativos sobre temas como listas, dicionários, expressões regulares, EOF, entre outros.  |
 
-| Pasta                         | Conteúdo                                                                 |
-|------------------------------|---------------------------------------------------------------------------|
-| **Beecrowd/Iniciante**       | Exercícios básicos de entrada e saída, lógica simples, condições e laços.   |
-| **Beecrowd/Matemática**      | Problemas que envolvem cálculos matemáticos, como álgebra, geometria e teoria dos números. |
-| **Beecrowd/Ad-Hoc**          | Problemas variados, de resolução pontual, sem técnicas avançadas.          |
-| **Beecrowd/Strings**         | Manipulação de strings, formatação e análise de textos.                    |
-| **Neps Academy**             | Exercícios diversos da plataforma Neps, abordando vários temas.           |
-| **Exercícios Diversos**     | Arquivos com explicações práticas sobre temas como listas, dicionários, expressões regulares, EOF, etc. |
+---
+## Como Usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/Samuel-fernandesf/Exercicios-Programacao.git
