@@ -8,7 +8,7 @@
 
 | Pasta                                  | Descrição                                                                                              |
 |---------------------------------------|--------------------------------------------------------------------------------------------------------|
-| [**Beecrowd/Iniciante**](./Beecrowd/Iniciante)     | Exercícios básicos de entrada/saída, lógica simples, condições e laços.                                |
+| [**Beecrowd/Iniciante**](./Beecrowd/Iniciante/README.md)     | Exercícios básicos de entrada/saída, lógica simples, condições e laços.                                |
 | [**Beecrowd/Matemática**](./Beecrowd/Matemática)   | Problemas com cálculos matemáticos: álgebra, geometria e teoria dos números.                           |
 | [**Beecrowd/Ad-Hoc**](./Beecrowd/Ad-Hoc)           | Problemas variados, com soluções pontuais e criativas, sem técnicas avançadas.                         |
 | [**Beecrowd/Strings**](./Beecrowd/Strings)         | Manipulação de strings, formatação e análise de textos.                                                |
