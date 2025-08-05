@@ -13,7 +13,7 @@
 | [**Beecrowd/Ad-Hoc**](./Beecrowd/Ad-Hoc)           | Problemas variados, com soluções pontuais e criativas, sem técnicas avançadas.                         |
 | [**Beecrowd/Strings**](./Beecrowd/Strings)         | Manipulação de strings, formatação e análise de textos.                                                |
 | [**Neps Academy**](./Neps%20Academy)              | Exercícios diversos da plataforma Neps, abordando algoritmos e estruturas de dados.                    |
-| [**Exercícios Diversos**](./)                     | Arquivos explicativos sobre temas como listas, dicionários, expressões regulares, EOF, entre outros.  |
+| [**Fundamentos**](./Fundamentos)                     | Arquivos explicativos sobre temas como listas, dicionários, expressões regulares, EOF, entre outros.  |
 
 ---
 ## Como Usar
